@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Rowdies:wght@300;400;700&display=swap');
+
+.navbar {
+    display: flex;
+    gap: 1.5rem;
+    list-style: none;
+    position: relative;
+    display: flex;
+    margin: 0 0 0 1rem;
+    padding: 0;
+}
+
+h1 {
+    font-family: "Rowdies", sans-serif;
+    font-weight: 700;
+}
+
+.navbar li a {
+    text-decoration: none;
+    color: #dda15e;
+    font-weight: 500;
+    font-size: 1.1rem;
+    font-family: "Rowdies", sans-serif;
+}
+
+.navbar i {
+    margin-right: 15px;
+}
+
+.nav::before .active {
+    transform: rotateY(180deg);
+}
+
+ a {
+    text-decoration: none;
+    color: #dda15e;
+    font-size: 1.1rem;
+    font-weight: 500;
+    
+ }
+
+.active:hover,
+a:hover {
+    border-bottom: #926c15 solid 1px;
+ }
+
+ .name {
+   
+    font-size: 2rem;
+    color: #dda15e;
+    font-weight: 800;
+}  

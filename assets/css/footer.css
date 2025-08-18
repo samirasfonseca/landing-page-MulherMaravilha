@@ -66,6 +66,10 @@
 
 /* Responsividade */
 @media (max-width: 768px) {
+    .footer {
+        width: 100%;
+    }
+
     .footer__container {
         flex-direction: column;
         gap: 1rem;

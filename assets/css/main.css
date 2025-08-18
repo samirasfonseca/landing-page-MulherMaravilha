@@ -45,7 +45,7 @@ main {
     width: 200px;
     height: 300px;
     transform-style: preserve-3d;
-    animation: animate 20s linear infinite;
+    animation: animate 30s linear infinite;
     margin-bottom: 10rem;
 }
 

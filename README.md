@@ -4,6 +4,10 @@ Bem-vindo ao **site da Mulher-Maravilha**! Aqui você vai explorar tudo sobre a 
 
 ---
 
+## Visualização do projeto
+<a href= "https://samirasfonseca.github.io/landing-page-MulherMaravilha/
+">site</a>
+
 ## 📖 Seções do Site
 
 - 🏠 **Início**: Apresentação da heroína e carrossel de imagens.
